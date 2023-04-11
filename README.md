@@ -1,5 +1,10 @@
 # Bash Script: Initialize Standard Python Project Folder Structure
 
+```text
+Author : Orhan Chaushev  
+Date   : 11.04.2023
+```
+
 This is a bash script that creates a standard Python project folder structure with a `.gitignore` file and a `README.md` file. This can save you time and effort when starting a new Python project, by providing a standardized folder structure and files.
 
 ## How to Use
